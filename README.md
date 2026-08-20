@@ -1,8 +1,8 @@
-# ⏳ 틈틈 (TeumTeum) — Backend
+# ⏳ 틈틈 (TeumTeum) — 동크크 Backend
 
 **남는 공백시간을, 나를 챙기는 시간으로.**
 
-2026 동국대학교 멋쟁이사자처럼 중앙해커톤 Team 3 (TeumTeum) Backend
+2026 동국대학교 멋쟁이사자처럼 중앙해커톤 Team 3 (TeumTeum) 동크크 Backend
 |
 ---
 
